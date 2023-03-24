@@ -8,3 +8,7 @@ alias grep='grep --color=auto'
 alias tree='tree -C'
 alias cat='bat'
 alias vi='vim'
+
+# readonly 
+alias micro_readonly='micro --readonly on'
+alias vi_readonly='vi -MR'
